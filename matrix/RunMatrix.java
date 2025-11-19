@@ -1,3 +1,8 @@
+// Name: Jaiden Burrell
+// Date: November 17, 2025
+// Course: CS-114 — Fundamentals of Computing I
+// Assignment: Matrix Runner
+
 import java.util.Scanner;
 
 public class RunMatrix {
